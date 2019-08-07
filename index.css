@@ -1,0 +1,33 @@
+.avatar {
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    margin-top: 25px;
+}
+
+.projectbtn {
+    appearance: button;
+    text-decoration: none;
+
+    font-family: 'Source Sans Pro';
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+    border-radius: 3px;
+
+    padding: 8px 32px;
+    cursor: pointer;
+    margin: 4px 2px;
+
+    transition-duration: 0.4s;
+}
+
+.projectbtn:hover {
+    background-color: white;
+    color: black;
+}
+
+.projectbtn:active {
+    background-color: #dddddd;
+    border-color: #dddddd;
+}
