@@ -31,3 +31,9 @@
     background-color: #dddddd;
     border-color: #dddddd;
 }
+
+.tfbtn:hover {
+    background-color: #d65c2f;
+    border-color: #d65c2f;
+    color: black;
+}
