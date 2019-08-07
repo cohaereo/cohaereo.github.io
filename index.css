@@ -1,0 +1,48 @@
+html {
+    background-color: #000;
+}
+
+.avatar {
+    border-radius: 25%;
+    width: 250px;
+    height: 250px;
+    margin-top: 25px;
+}
+
+.projectbtn {
+    appearance: button;
+    text-decoration: none;
+
+    font-family: 'Source Sans Pro';
+    color: #fff;
+    border: 2px solid #fff;
+    border-radius: 3px;
+
+    padding: 8px 32px;
+    cursor: pointer;
+    margin: 4px 2px;
+
+    transition-duration: 0.4s;
+}
+
+.projectbtn:hover {
+    background-color: #fff;
+    color: black;
+}
+
+.projectbtn:active {
+    background-color: #dddddd;
+    border-color: #dddddd;
+}
+
+/* .tfbtn:hover {
+    background-color: #d65c2f;
+    border-color: #d65c2f;
+    color: black;
+}
+
+.albtn:hover {
+    background-color: #0b4ede;
+    border-color: #0b4ede;
+    color: black;
+} */
